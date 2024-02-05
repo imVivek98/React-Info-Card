@@ -1,0 +1,77 @@
+
+.App{
+    background-color: black;
+    width: 400px;
+    align-items: center;
+    margin: auto;
+}
+
+.own-image{
+    width : 400px;
+    align-items: center;
+}
+
+.footer-items > img{
+    width : 40px;
+    margin: auto;
+}
+
+h1{
+    color:white;
+    
+    
+}
+
+h2{
+    color:white;
+    padding: 2rem 3rem 0.5rem;
+    
+}
+
+h4{
+    color:white;
+
+}
+
+p{
+    color:white;
+    font-size: small;
+    padding: 0 3rem;
+    
+    
+}
+
+
+body{
+    background-color: gray;
+}
+
+.intro-content{
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    
+}
+
+.designation{
+    font-size: x-large;
+    margin-bottom: 3rem;
+}
+
+.button-container{
+    display: flex;
+    flex-direction: row;
+    padding-left:100px;
+    
+}
+
+.button-container > button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.linkedin-button{
+    background-color: rgb(50, 50, 242);
+    color: white;
+}
